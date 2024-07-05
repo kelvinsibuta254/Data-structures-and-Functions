@@ -20,7 +20,7 @@ print()
 print(ydict["k1"])# key used as an index to find the value
 
 #since the values are mutable, you can set it to something else
-ydict["k1"] = 345
+ydict["k1"] = 346
 print(ydict)
 print()
 
@@ -29,5 +29,5 @@ print()
 ydict = { 0 : "v1", 1: "v2", 2 : "v3"}# This is still a dictionary
 
 print(ydict)
-ydict[0] = 345
+ydict[0] = 346
 print(ydict)

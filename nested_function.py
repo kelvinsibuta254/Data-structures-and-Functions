@@ -3,7 +3,7 @@ def outer_function():
 
     def inner_function():
         nonlocal x #Using nonlocal to modify x from the enclosing function
-        x += 5
+        x += 5 #python identifies local first
     inner_function()#Calling the nested function
     print("Modified value of x from inner function:", x)
     outer_function()

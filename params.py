@@ -2,4 +2,4 @@ def calculate_area(length, width):
     """Calculates the area of a rectangle."""
     area = length * width
     return area
-print(calculate_area(10, 5))
+print(calculate_area(10, 5))#prints the value of variable area

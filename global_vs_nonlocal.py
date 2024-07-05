@@ -4,3 +4,5 @@ def increment_global():
     count += 1
 increment_global()
 print(count) #Output: 1 (Global count is modified)
+#Built-in
+#Enclosed

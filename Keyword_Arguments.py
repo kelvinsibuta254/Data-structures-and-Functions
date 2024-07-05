@@ -3,4 +3,4 @@ def user_info(name= str, age=None):
     print(f"Name: {name}")
     if age:
         print(f"Age: {age}")
-user_info(name="Bob", age=30)
+user_info(name="Bob", age=30)#prints name and age

@@ -14,3 +14,4 @@ print(a)
 #You can create an empty set
 b = set()
 print(b)
+#sets doesn't allow duplicates

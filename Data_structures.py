@@ -20,8 +20,8 @@ c = [3, 4, 5, 6, 6, 7, 7, 8, 8]
 print(c)
 d = set(c)
 print(d)
-e = list(d)
-print(e)
+f = list(d)
+print(f)
 
 #sets can help remove duplicates or repetitions from a list and other data structures
 #You can call a unique function in a high level language using a nested loop

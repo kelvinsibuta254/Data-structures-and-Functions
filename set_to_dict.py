@@ -3,7 +3,7 @@ z["a"] = "alpha"
 z["g"] = "gamma"
 z["o"] = "omega"
 
-## {"a" : "alpha", "o" : "omega", "g" : "gamma"}
+# {"a" : "alpha", "o" : "omega", "g" : "gamma"}
 
 #elements of the set are the keys not values
 #Simple lookup returns "alpha"

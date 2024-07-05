@@ -20,5 +20,4 @@ if "a" in z:
 
 #use try except to raise an error alarm if the key is not present in a dictionary (Keyerror)
 
-# when converting a dictionary to a set, python is not going to extract values as the elements but as as keys
-#because sets are only allowed to have singular elements
+# when converting a dictionary to a set, python is not going to extract values as the elements but as as keys because sets are only allowed to have singular elements
